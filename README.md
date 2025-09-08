@@ -10,7 +10,7 @@
 
 ## 🚀 Chi sono
 
-Sono un **Data Expert** e **AI Specialist** con oltre 5 anni di esperienza nello sviluppo di soluzioni innovative basate su Machine Learning e Generative AI. Attualmente lavoro in **Seedble** dove sviluppo il progetto **Tech Radar** integrando AI generativa, modelli ML e database vettoriali.
+Sono un **Data Expert** e **AI Specialist** con oltre 5 anni di esperienza nello sviluppo di soluzioni innovative basate su Machine Learning e Generative AI. Attualmente lavoro in **Seedble** dove sviluppo il progetto **Tech Radar** integrando AI generativa, modelli ML e costruzione di sistemi agentici di AI per automazione intelligente e soluzioni innovative.
 
 🎓 **Master in Data Analytics** @ Roma Tre | 📊 **Laurea in Scienze Statistiche** @ La Sapienza
 
@@ -77,8 +77,6 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 
 <div align="center">
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAlfio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlfio&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarioAlfio&theme=radical&hide_border=true)
@@ -91,8 +89,7 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 
 ### 💼 **Data Expert** @ Seedble *(Aprile 2023 - Presente)*
 - Sviluppo progetto **Tech Radar** con Generative AI e ML
-- Integrazione di database vettoriali per soluzioni innovative
-- Collaborazione in team agile per progetti AI cutting-edge
+- Costruzione di sistemi agestici di AI
 
 ### 📊 **BI Developer** @ Bridge Consulting *(2022-2023)*
 - Migrazione report SASWeb → Oracle BI
