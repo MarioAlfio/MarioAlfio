@@ -44,8 +44,7 @@ Sono un **Data Expert** e **AI Specialist** con oltre 5 anni di esperienza nello
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-[![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=✨&logoColor=white)
-
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 🔥 Progetti in Evidenza
