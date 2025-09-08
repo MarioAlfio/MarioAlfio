@@ -144,15 +144,3 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 </div>
 
 ---
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-<summary>📈 More GitHub Metrics</summary>
-
-![Metrics](https://github.com/MarioAlfio/MarioAlfio/blob/main/github-metrics.svg)
-
-</details>
