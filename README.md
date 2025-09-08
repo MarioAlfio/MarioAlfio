@@ -61,11 +61,6 @@ Assistente personale AI sviluppato con Python per supportare il lavoro del Data 
 
 **Tech:** `Python` `Cheshire Cat Framework` `AI` `Data Analysis`
 
-### 🏀 [ShotChart Milano vs Real Madrid](https://github.com/MarioAlfio/ShotChart_MILvsRMAD)
-Analisi avanzata della partita di Eurolega con visualizzazioni interattive degli shot chart.
-
-**Tech:** `Python` `Data Visualization` `Sports Analytics`
-
 ### 📊 [Multimodal Analysis](https://github.com/MarioAlfio/Multimodal)
 Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzate.
 
@@ -125,7 +120,7 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfieromario@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioAlfio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-alfiero-3a8199157/)
 
 </div>
 
@@ -134,7 +129,7 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 ## 🎲 Fun Facts
 
 - ⚽ **Match Analyst Football** certificato (29/30) - Progress Lab
-- 🏀 Appassionato di **Sports Analytics** (calcio, basket, beach volley)
+- 🏀 Appassionato di **Sports Analytics** (calcio, basket, beach volley, sail)
 - 🤝 Volontario per **Job Shadowing** - supporto donne rifugiate nel tech
 - 📚 Sempre alla ricerca di nuove tecnologie AI da esplorare
 
