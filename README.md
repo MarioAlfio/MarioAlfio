@@ -129,7 +129,7 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 ## 🎲 Fun Facts
 
 - ⚽ **Match Analyst Football** certificato (29/30) - Progress Lab
-- 🏀 Appassionato di **Sports Analytics** (calcio, basket, beach volley, sail)
+- 🏀 Appassionato di **Sports Analytics** (sail, basket, beach volley)
 - 🤝 Volontario per **Job Shadowing** - supporto donne rifugiate nel tech
 - 📚 Sempre alla ricerca di nuove tecnologie AI da esplorare
 
