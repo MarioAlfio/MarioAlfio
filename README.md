@@ -65,6 +65,11 @@ Assistente personale AI sviluppato con Python per supportare il lavoro del Data 
 Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzate.
 
 **Tech:** `Jupyter Notebook` `ML` `Multimodal AI`
+
+### [Ethical-hacking-lab](https://github.com/MarioAlfio/Ethical-hacking-lab)
+Repository di strumenti e script per lo studio della cybersecurity e del penetration testing.
+
+**Tech:** `Network Scanning` `ARP Spoofing/MITM` `Packet Crafting (Scapy)` `Kali Linux` `Network Protocols`
 ---
 
 ## 🏆 Esperienze Professionali
@@ -98,6 +103,7 @@ Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzat
 - ✅ **Google Compute Engine Architecture** - Coursera (2024)
 - ✅ **100 Days Python Pro Bootcamp** - Udemy (2024)
 - ✅ **Generative AI + LLM App Development** - Udemy (2024)
+- ✅ **Learn Python & Ethical Hacking From Scratch** - Udemy (2025)
 
 ---
 
