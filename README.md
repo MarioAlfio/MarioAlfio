@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Mario Alfiero!
+# Ciao, sono Mario Alfiero!
 
 <div align="center">
 
@@ -65,19 +65,6 @@ Assistente personale AI sviluppato con Python per supportare il lavoro del Data 
 Progetti di analisi multimodale utilizzando tecniche di Machine Learning avanzate.
 
 **Tech:** `Jupyter Notebook` `ML` `Multimodal AI`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlfio&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarioAlfio&theme=radical&hide_border=true)
-
-</div>
-
 ---
 
 ## 🏆 Esperienze Professionali
