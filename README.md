@@ -50,7 +50,7 @@ Sono un **Data Expert** e **AI Specialist** con oltre 5 anni di esperienza nello
 ## 🔥 Progetti in Evidenza
 
 ### 🧠 [Progetto Tesi: Bayesian Optimization per RAG](https://github.com/MarioAlfio)
-> 🚧 **In Development** - Master Roma Tre 2025
+> Master Roma Tre 2025
 
 Sviluppo di metodologie avanzate di **ottimizzazione bayesiana** per migliorare la qualità dei sistemi **Retrieval-Augmented Generation (RAG)**. Focus su accuratezza e affidabilità delle risposte AI.
 
